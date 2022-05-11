@@ -14,6 +14,7 @@
 		5A90F917282AC39D00B4ED3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A90F916282AC39D00B4ED3B /* Assets.xcassets */; };
 		5A90F91A282AC39D00B4ED3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A90F918282AC39D00B4ED3B /* LaunchScreen.storyboard */; };
 		5A90F926282AC52600B4ED3B /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A90F925282AC52600B4ED3B /* FirstViewController.swift */; };
+		5A90F928282BC4E700B4ED3B /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A90F927282BC4E700B4ED3B /* TableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5A90F919282AC39D00B4ED3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5A90F91B282AC39D00B4ED3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A90F925282AC52600B4ED3B /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		5A90F927282BC4E700B4ED3B /* TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				5A90F90F282AC39B00B4ED3B /* SceneDelegate.swift */,
 				5A90F911282AC39B00B4ED3B /* ViewController.swift */,
 				5A90F925282AC52600B4ED3B /* FirstViewController.swift */,
+				5A90F927282BC4E700B4ED3B /* TableView.swift */,
 				5A90F913282AC39B00B4ED3B /* Main.storyboard */,
 				5A90F916282AC39D00B4ED3B /* Assets.xcassets */,
 				5A90F918282AC39D00B4ED3B /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A90F912282AC39B00B4ED3B /* ViewController.swift in Sources */,
+				5A90F928282BC4E700B4ED3B /* TableView.swift in Sources */,
 				5A90F90E282AC39B00B4ED3B /* AppDelegate.swift in Sources */,
 				5A90F910282AC39B00B4ED3B /* SceneDelegate.swift in Sources */,
 				5A90F926282AC52600B4ED3B /* FirstViewController.swift in Sources */,

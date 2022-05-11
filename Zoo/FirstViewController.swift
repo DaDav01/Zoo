@@ -28,7 +28,7 @@ class FirstViewController: UIViewController {
     
     @objc func buttonPressed(){
         self.navigationController?.pushViewController(ViewController(), animated: true)
-        self.navigationController?.isNavigationBarHidden = true
+        
     }
     
 }
